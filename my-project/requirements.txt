@@ -1,0 +1,10 @@
+ollama
+openai
+langsmith
+langgraph
+langchain
+python-dotenv
+langchain-community
+langchain-openai
+langchain-groq
+langchain-google-genai 
